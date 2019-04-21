@@ -46,5 +46,5 @@ The final rankings would be based on your private score which will be published 
 
 # Leaderboard
 
-* **[Public LB](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/lb)** : **17th Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/pvt_lb)** : **13th Rank**
+* **[Public LB](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/lb)** : **17th/1342 Rank**
+* **[Private LB](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/pvt_lb)** : **13th/1342 Rank**
